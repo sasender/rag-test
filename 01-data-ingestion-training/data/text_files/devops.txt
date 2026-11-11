@@ -1,0 +1,10 @@
+Devops Basic Introduction
+Devops is a set of practise the combines the devlopers and operations teams in to one line with out dependancys on each others.and
+
+Key Features:
+- Easy to learn and use
+- Extensive standard library
+- Cross-platform compatibility
+- Strong community support
+
+Python devops is widely used in web development, data science, artificial intelligence, and automation.
